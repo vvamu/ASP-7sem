@@ -1,0 +1,102 @@
+D:\7sem\asp\lab2a\lab2a\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\7sem\asp\lab2a\lab2a\bin\Debug\netcoreapp3.1\appsettings.json
+D:\7sem\asp\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.exe
+D:\7sem\asp\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.deps.json
+D:\7sem\asp\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.runtimeconfig.json
+D:\7sem\asp\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.runtimeconfig.dev.json
+D:\7sem\asp\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.dll
+D:\7sem\asp\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.pdb
+D:\7sem\asp\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.Views.dll
+D:\7sem\asp\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.Views.pdb
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.csproj.AssemblyReference.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.GeneratedMSBuildEditorConfig.editorconfig
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.AssemblyInfoInputs.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.AssemblyInfo.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.csproj.CoreCompileInputs.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.MvcApplicationPartsAssemblyInfo.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.RazorAssemblyInfo.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.RazorAssemblyInfo.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\staticwebassets\lab2a.StaticWebAssets.Manifest.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\staticwebassets\lab2a.StaticWebAssets.xml
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\scopedcss\bundle\lab2a.styles.css
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.TagHelpers.input.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.TagHelpers.output.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.RazorCoreGenerate.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.RazorTargetAssemblyInfo.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.RazorTargetAssemblyInfo.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.Views.pdb
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.dll
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.pdb
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.genruntimeconfig.cache
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.csproj.CopyComplete
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Start\Index.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Start\One.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Start\Three.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Start\Two.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\State\S200.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\State\S300.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\State\S500.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Parm\Uri01.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Parm\Uri02.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Parm\Uri04.cshtml.g.cs
+D:\7sem\asp\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Parm\Uro03.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.StaticWebAssets.xml
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.exe
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.deps.json
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.runtimeconfig.json
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.runtimeconfig.dev.json
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.dll
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.pdb
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.Views.dll
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\bin\Debug\netcoreapp3.1\lab2a.Views.pdb
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.csproj.AssemblyReference.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.GeneratedMSBuildEditorConfig.editorconfig
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.AssemblyInfoInputs.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.AssemblyInfo.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.csproj.CoreCompileInputs.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.MvcApplicationPartsAssemblyInfo.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.RazorAssemblyInfo.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.RazorAssemblyInfo.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\staticwebassets\lab2a.StaticWebAssets.Manifest.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\staticwebassets\lab2a.StaticWebAssets.Pack.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.lab2a.Microsoft.AspNetCore.StaticWebAssets.props
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.lab2a.props
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.lab2a.props
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.lab2a.props
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.TagHelpers.input.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.TagHelpers.output.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.RazorCoreGenerate.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Parm\Uri01.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Parm\Uri02.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Parm\Uri04.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Parm\Uro03.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Start\Index.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Start\One.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Start\Three.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\Start\Two.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\State\S200.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\State\S300.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\State\S500.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.RazorTargetAssemblyInfo.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.RazorTargetAssemblyInfo.cs
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.Views.pdb
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.dll
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.pdb
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.genruntimeconfig.cache
+E:\5c\ASP - ПВИ\labs\lab2a\lab2a\lab2a\obj\Debug\netcoreapp3.1\lab2a.csproj.CopyComplete

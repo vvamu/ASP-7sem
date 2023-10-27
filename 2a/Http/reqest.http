@@ -1,0 +1,78 @@
+@hostname=localhost
+@port=7160
+
+GET https://{{hostname}}:{{port}}/Start/One HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Start/Two HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Start/Three HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Start/index HTTP/1.1
+
+
+###
+POST https://{{hostname}}:{{port}}/Start/One HTTP/1.1
+###
+POST https://{{hostname}}:{{port}}/Start/Two HTTP/1.1
+###
+POST https://{{hostname}}:{{port}}/Start/Three HTTP/1.1
+###
+POST https://{{hostname}}:{{port}}/Start/index HTTP/1.1
+
+
+###
+GET https://belstu.by/
+
+
+###
+GET  https://{{hostname}}:{{port}}/State/S500 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri01 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri01/1 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri01/x1 HTTP/1.1
+
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri02 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri02/1 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri02/x1 HTTP/1.1
+
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri02/1,22 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri02/1.222 HTTP/1.1
+
+###
+
+
+GET https://{{hostname}}:{{port}}/Parm/Uro03 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uro03/1 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uro03/x1 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uro03/1,22 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uro03/1.222 HTTP/1.1
+
+###
+
+GET https://{{hostname}}:{{port}}/Parm/Uri04 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri04/1 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri04/x1 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri04/1.222 HTTP/1.1
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri04/2023.01.02 HTTP/1.1
+
+###
+GET https://{{hostname}}:{{port}}/Parm/Uri04/2023.01.02%2014:00:33 HTTP/1.1
+
+
+###
+GET https://{{hostname}}:5001/tws HTTP/1.1

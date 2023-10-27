@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "BwFID8mtiMq1QKcC2MuroTGowuWU+sWkAqP4sIJ5d3Y=",
+  "Source": "lab1b-WebSockets",
+  "BasePath": "_content/lab1b-WebSockets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lab1b-WebSockets\\wwwroot",
+      "Source": "lab1b-WebSockets",
+      "ContentRoot": "E:\\5c\\ASP - ПВИ\\labs\\2-WebSockets\\wwwroot\\",
+      "BasePath": "_content/lab1b-WebSockets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\5c\\ASP - ПВИ\\labs\\2-WebSockets\\wwwroot\\websocket.html",
+      "SourceId": "lab1b-WebSockets",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\5c\\ASP - ПВИ\\labs\\2-WebSockets\\wwwroot\\",
+      "BasePath": "_content/lab1b-WebSockets",
+      "RelativePath": "websocket.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\websocket.html"
+    }
+  ]
+}

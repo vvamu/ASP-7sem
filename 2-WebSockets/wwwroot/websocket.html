@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script>
+        let ws = new WebSocket(`ws://${location.hostname}:${location.port}/tws`);
+        ws.onopen = () => {
+            console.log('send:Connection from client');
+            ws.send('Connection from client');
+        };
+        ws.onclose = () => { console.log('close by websocket.html'); };
+        ws.onmessage = () => { console.log("Message from websocket.html"); };
+        ws.onerror = () => { console.log(`error by websocket.html: ${e.message}`); };
+        let k = 1;
+        let sI = null;
+        function WSsend() { sI = setInterval(() => ws.send('send from client websocket.html' + (k++)), 500); }
+        function WSstop() {clearInterval(sI); ws.close(); }
+    </script>
+</head>
+<body>
+    
+    <input type="button" onclick="WSstop()" value="Stop" />
+    <input type="button" onclick="WSsend()" value="Send" />
+</body>
+</html>

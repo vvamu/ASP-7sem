@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>WebSocket Demo</title>
+    <script>
+        var webSocket;
+        var counter = 1;
+
+        function startWebSocket() {
+
+            webSocket = new WebSocket(`ws://${location.hostname}:${location.port}/tws`);
+
+            // Обработчик события открытия соединения
+            webSocket.onopen = (event) {
+                console.log("Соединение установлено");
+                webSocket.send("Start connection");
+            }
+            
+            // Обработчик события получения сообщения
+            webSocket.onmessage = (event) => console.log("Получено сообщение: " + event.data);
+            
+            // Обработчик события закрытия соединения
+            webSocket.onclose = (event) {
+                console.log("Соединение закрыто");
+                webSocket.send("Close connection");
+            }
+
+            webSocket.onerror = (error) => console.log("Error - " + error);
+            
+        }
+
+
+        function sendMessageWebSocket() {
+            if (webSocket) {
+                setInterval(() => webSocket.send("Message from client " + counter++), 500);
+            }
+        }
+
+        function stopWebSocket() {
+            if (webSocket) {
+                webSocket.close();
+            }
+        }
+    </script>
+</head>
+<body>
+    <button onclick="startWebSocket()">Пуск</button>
+    <button onclick="sendMessageWebSocket()">Отправить</button>
+    <button onclick="stopWebSocket()">Стоп</button>
+</body>
+</html>

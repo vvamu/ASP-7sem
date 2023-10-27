@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\5c\\ASP - ПВИ\\labs\\2-WebSockets\\wwwroot\\websocket.html",
+      "PackagePath": "staticwebassets\\websocket.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.lab1b-WebSockets.props",
+      "PackagePath": "build\\lab1b-WebSockets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.lab1b-WebSockets.props",
+      "PackagePath": "buildMultiTargeting\\lab1b-WebSockets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.lab1b-WebSockets.props",
+      "PackagePath": "buildTransitive\\lab1b-WebSockets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.lab1b-WebSockets.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
