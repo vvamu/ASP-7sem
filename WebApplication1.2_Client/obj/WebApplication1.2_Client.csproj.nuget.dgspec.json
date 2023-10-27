@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\5c\\ASP - ПВИ\\labs\\WebApplication1.2_Client\\WebApplication1.2_Client.csproj": {}
+    "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\WebApplication1.2_Client\\WebApplication1.2_Client.csproj": {}
   },
   "projects": {
-    "E:\\5c\\ASP - ПВИ\\labs\\WebApplication1.2_Client\\WebApplication1.2_Client.csproj": {
+    "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\WebApplication1.2_Client\\WebApplication1.2_Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\5c\\ASP - ПВИ\\labs\\WebApplication1.2_Client\\WebApplication1.2_Client.csproj",
+        "projectUniqueName": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\WebApplication1.2_Client\\WebApplication1.2_Client.csproj",
         "projectName": "WebApplication1.2_Client",
-        "projectPath": "E:\\5c\\ASP - ПВИ\\labs\\WebApplication1.2_Client\\WebApplication1.2_Client.csproj",
+        "projectPath": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\WebApplication1.2_Client\\WebApplication1.2_Client.csproj",
         "packagesPath": "C:\\Users\\who\\.nuget\\packages\\",
-        "outputPath": "E:\\5c\\ASP - ПВИ\\labs\\WebApplication1.2_Client\\obj\\",
+        "outputPath": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\WebApplication1.2_Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\who\\AppData\\Roaming\\NuGet\\NuGet.Config",

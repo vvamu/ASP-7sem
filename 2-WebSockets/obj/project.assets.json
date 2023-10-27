@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\5c\\ASP - ПВИ\\labs\\2-WebSockets\\lab1b-WebSockets.csproj",
+      "projectUniqueName": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\2-WebSockets\\lab1b-WebSockets.csproj",
       "projectName": "lab1b-WebSockets",
-      "projectPath": "E:\\5c\\ASP - ПВИ\\labs\\2-WebSockets\\lab1b-WebSockets.csproj",
+      "projectPath": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\2-WebSockets\\lab1b-WebSockets.csproj",
       "packagesPath": "C:\\Users\\who\\.nuget\\packages\\",
-      "outputPath": "E:\\5c\\ASP - ПВИ\\labs\\2-WebSockets\\obj\\",
+      "outputPath": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\2-WebSockets\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\who\\AppData\\Roaming\\NuGet\\NuGet.Config",

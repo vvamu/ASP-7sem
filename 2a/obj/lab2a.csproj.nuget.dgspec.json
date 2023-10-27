@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\5c\\ASP - ПВИ\\labs\\2a\\lab2a.csproj": {}
+    "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\2a\\lab2a.csproj": {}
   },
   "projects": {
-    "E:\\5c\\ASP - ПВИ\\labs\\2a\\lab2a.csproj": {
+    "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\2a\\lab2a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\5c\\ASP - ПВИ\\labs\\2a\\lab2a.csproj",
+        "projectUniqueName": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\2a\\lab2a.csproj",
         "projectName": "lab2a",
-        "projectPath": "E:\\5c\\ASP - ПВИ\\labs\\2a\\lab2a.csproj",
+        "projectPath": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\2a\\lab2a.csproj",
         "packagesPath": "C:\\Users\\who\\.nuget\\packages\\",
-        "outputPath": "E:\\5c\\ASP - ПВИ\\labs\\2a\\obj\\",
+        "outputPath": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\2a\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\who\\AppData\\Roaming\\NuGet\\NuGet.Config",

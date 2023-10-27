@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\5c\\ASP - ПВИ\\labs\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "E:\\5c\\ASP - ПВИ\\labs\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\WebApplication1\\lab1a.csproj",
+      "projectName": "lab1a",
+      "projectPath": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\WebApplication1\\lab1a.csproj",
       "packagesPath": "C:\\Users\\who\\.nuget\\packages\\",
-      "outputPath": "E:\\5c\\ASP - ПВИ\\labs\\WebApplication1\\obj\\",
+      "outputPath": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\who\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xTvQz6Wyauck/2DNcYIQLiSpcV2EYowiakv1VEl7dKkuROrO8WvBwEboyeOti+ABnTzYALfuZTcuHfnAH7Bp/w==",
+  "dgSpecHash": "zhzwDhOkx1b4fZeAafBzQGK8lZQitGRGoLtRO0/pgD7TXyUSKsupH1lI7XZc9FgMU5wB2VLP0tByHDXXrcAVJg==",
   "success": true,
-  "projectFilePath": "E:\\5c\\ASP - ПВИ\\labs\\2-WebSockets\\lab1b-WebSockets.csproj",
+  "projectFilePath": "E:\\5c\\ASP - ПВИ\\labs\\ASP-7sem\\2-WebSockets\\lab1b-WebSockets.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
